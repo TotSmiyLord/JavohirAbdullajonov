@@ -1,0 +1,50 @@
+import React from "react";
+import Link from "next/link";
+
+export default function Dashboards() {
+  return (
+    <>
+      <nav class="font-sans flex sm:flex-row sm:text-left sm:justifi-between py-4 px-6 bg-gray-900 shadow sm:items-baseline w-full">
+        <div class="mb- sm:mb-0 sm:ml-10">
+          <a href="/" className=" no-underline text-white hover:text-blue-dark">
+            <svg
+              width="30"
+              height="30"
+              viewBox="0 0 35 43"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M0 2H35" stroke="white" stroke-width="4" />
+              <path d="M0 40.5518H35" stroke="white" stroke-width="4" />
+              <path
+                d="M21.4375 2L7 20.8276L21.4375 41"
+                stroke="white"
+                stroke-width="4"
+              />
+            </svg>
+          </a>
+        </div>
+        <div className="md:ml-60 sm:ml-20 xl:ml-">
+          <a
+            href="users"
+            class="text-lg no-underline text-white hover:text-blue-dark ml-2 sm:ml-20"
+          >
+            Malumot
+          </a>
+          <a
+            href="/two"
+            class="text-lg no-underline text-white hover:text-blue-dark ml-4 sm:ml-20"
+          >
+            Portfolio
+          </a>
+          <a
+            href="/three"
+            class="text-lg no-underline text-white hover:text-blue-dark ml-4 sm:ml-20"
+          >
+            Bog'lanish
+          </a>
+        </div>
+      </nav>
+    </>
+  );
+}
