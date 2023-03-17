@@ -3,9 +3,10 @@ import Fontent from "@/layauts/Fontent";
 import Text from "@/layauts/Text";
 import Toxt from "@/layauts/Toxt";
 import Tot from "@/layauts/Tot";
+import Atach from "@/layauts/attach/Atach";
 export default function Home() {
   return (
-    <div className="container mx-auto overview-x-hidden">
+    <div className="   container mx-auto ">
       <Dashboards />
       <div class="sm:flex xl:w-full ">
         <div className="ml-6">
@@ -33,12 +34,16 @@ export default function Home() {
             />
           </svg>
         </div>
+
         <div class="w-full mt-20 md:mt-10 relative xl:right-40">
           <Text />
         </div>
       </div>
-      <Tot />
-      <Toxt />
+      <div className="rotet bg-fixed">
+        <Tot />
+        <Toxt />
+        <Atach />
+      </div>
     </div>
   );
 }

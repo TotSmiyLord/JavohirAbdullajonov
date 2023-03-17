@@ -101,11 +101,15 @@ export default function Toxt() {
                                 <Koosmn />
                               </div>
                               <h1 class="">
-                                <a class="no-underline hover: text-light">JavaScript nima?</a>
+                                <a class="no-underline hover: text-light">
+                                  JavaScript nima?
+                                </a>
                               </h1>
-                              <button class="rounded-xl border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium  transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
-                                Bilish
-                              </button>
+                              <a href="https://youtu.be/Kh6PfBhuLT8">
+                                <button class="rounded-xl border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium  transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
+                                  Bilish
+                                </button>
+                              </a>
                             </header>
                           </article>
                         </div>
@@ -117,11 +121,15 @@ export default function Toxt() {
                                 <Koosmnn />
                               </div>
                               <h1 class="text-">
-                                <a class="no-underline hover: text-light">HTML va CSS <br/> bir biriga bog'liqmi</a>
+                                <a class="no-underline hover: text-light">
+                                  HTML va CSS <br /> bir biriga bog'liqmi
+                                </a>
                               </h1>
-                              <button class="rounded-xl border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium  transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
-                                Bilish
-                              </button>
+                              <a href="https://youtu.be/o6cC83OnE3M">
+                                <button class="rounded-xl border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium  transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
+                                  Bilish
+                                </button>
+                              </a>
                             </header>
                           </article>
                         </div>
