@@ -14,7 +14,7 @@ export default function Toxt() {
               <div class="sm:p-16">
                 <div class="space-y-4">
                   <h1 class="mb-12 text-3xl text-white  font-bold w-full flex ">
-                    <div className="relative hidden lg:block container m-auto px-6  md:px-12 xl:px-40">
+                    <div className="relative hidden lg:block container  m-auto px-6  md:px-12 xl:px-40 ">
                       <svg
                         className=""
                         viewBox="0 0 385 431"
@@ -54,7 +54,7 @@ export default function Toxt() {
                           <article class="overflow-hidden rounded-lg shadow-lg">
                             <a href="#"></a>
                             <header class="flex items-center justify-between  leading-tight p-2 md:p-4 h-[193px] bg-gradient-to-b from-[#50327A] to-[#140429] md:bg-gradient-to-br md:from-[#16062D] md:to-[#38126D] ">
-                              <div className="absolute z-30 hidden xs sm:ml-60 sm:block md:ml-20  ml-20 lg:ml-[210px]">
+                              <div className="absolute z-30 hidden lg:block   ml-20 lg:ml-[210px]">
                                 <Kosmos />
                               </div>
                               <h1 class="text-">
@@ -62,12 +62,9 @@ export default function Toxt() {
                                   Full Stack nima?
                                 </a>
                               </h1>
-                              <a
-                                href="https://youtu.be/2JkgQlFFq1s"
-                                className="relative "
-                              >
+                              <a href="fullstack" className="relative ">
                                 <button class="rounded-xl  border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium  transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5 ">
-                                  Bilish
+                                  Malumot
                                 </button>
                               </a>
                             </header>
@@ -77,7 +74,7 @@ export default function Toxt() {
                           <article class="overflow-hidden rounded-lg shadow-lg">
                             <a href="#"></a>
                             <header class="flex items-center justify-between leading-tight p-2 md:p-4 h-[193px] bg-gradient-to-b from-[#50327A] to-[#140429] md:bg-gradient-to-bl md:from-[#16062D] md:to-[#38126D]">
-                              <div className="absolute z-30 hidden xs sm:ml-60 sm:block md:ml-20  ml-20 lg:ml-[210px]">
+                              <div className="absolute z-30 hidden lg:block  ml-20 lg:ml-[210px]">
                                 <Kosmn />
                               </div>
                               <h1 class="text-">
@@ -85,9 +82,9 @@ export default function Toxt() {
                                   React.js nima?
                                 </a>
                               </h1>
-                              <a href="https://youtu.be/mA_O7onmKQ8">
+                              <a href="reactjs">
                                 <button class="rounded-xl border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium  transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
-                                  Bilish
+                                  Malumot
                                 </button>
                               </a>
                             </header>
@@ -97,7 +94,7 @@ export default function Toxt() {
                           <article class="overflow-hidden rounded-lg shadow-lg">
                             <a href="#"></a>
                             <header class="flex items-center justify-between leading-tight p-2 md:p-4 h-[193px] bg-gradient-to-b from-[#50327A] to-[#140429] md:bg-gradient-to-tr md:from-[#16062D] md:to-[#38126D] ">
-                              <div className="absolute z-30 hidden xs sm:ml-60 sm:block md:ml-20  ml-20 lg:ml-[210px]">
+                              <div className="absolute z-30 hidden lg:block  ml-20 lg:ml-[210px]">
                                 <Koosmn />
                               </div>
                               <h1 class="">
@@ -117,7 +114,7 @@ export default function Toxt() {
                           <article class="overflow-hidden rounded-lg shadow-lg">
                             <a href="#"></a>
                             <header class="flex items-center justify-between leading-tight p-2 md:p-4 h-[193px] bg-gradient-to-b from-[#50327A] to-[#140429] md:bg-gradient-to-tl md:from-[#16062D] md:to-[#38126D]">
-                              <div className="absolute z-30 hidden xs sm:ml-60 sm:block md:ml-20  ml-20 lg:ml-[240px]">
+                              <div className="absolute z-30 hidden lg:block   ml-20 lg:ml-[240px]">
                                 <Koosmnn />
                               </div>
                               <h1 class="text-">

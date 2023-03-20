@@ -15,7 +15,12 @@ header {
 }
 .rotet {
   background-image: url("./Pppng.png");
-  background-repeat: no-repeat;
-  background-size: 100vh;
+  background-repeat: no-repeat;  
+  background-position: top;
+}
+.rote {
+   background-image: url("./Pppng.png");
+  background-repeat: no-repeat;  
+  background-size: 60vh ;
   background-position: top;
 }

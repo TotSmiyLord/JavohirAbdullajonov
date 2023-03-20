@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Content() {
   return (
-    <div className="flex sm:ml-40 mt-20 xs:mt-2 ">
+    <div className="flex md:ml-20 mt-20 xs:mt-2 ">
       <div className=" relative h-80 w-80">
         <svg
           viewBox="0 0 385 431"

@@ -39,9 +39,14 @@ export default function Home() {
           <Text />
         </div>
       </div>
-      <div className="rotet bg-fixed">
+      <div className="rotet hidden md:block mt-40 bg-fixed md:w-max">
         <Tot />
-        <Toxt />
+
+        <Atach />
+      </div>
+      <Toxt />
+      <div className="rote md:hidden bg-fixed xs:w-[400px]">
+        <Tot />
         <Atach />
       </div>
     </div>
