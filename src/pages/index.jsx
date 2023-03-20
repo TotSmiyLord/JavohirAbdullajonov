@@ -4,6 +4,7 @@ import Text from "@/layauts/Text";
 import Toxt from "@/layauts/Toxt";
 import Tot from "@/layauts/Tot";
 import Atach from "@/layauts/attach/Atach";
+import Buttons from "@/layauts/attach/Buttons";
 export default function Home() {
   return (
     <div className="   container mx-auto ">
@@ -38,17 +39,19 @@ export default function Home() {
         <div class="w-full mt-20 md:mt-10 relative xl:right-40">
           <Text />
         </div>
+        <Buttons />
       </div>
-      <div className="rotet hidden md:block mt-40 bg-fixed md:w-max">
-        <Tot />
 
+      <div className="rotet hidden md:block md:mt-40 bg-fixed md:w-max">
+        <Tot />
+        <Atach />
+      </div>
+
+      <div className="rote md:hidden bg-fixed xs:w-[400px] xs:h-[0px]">
+        <Tot />
         <Atach />
       </div>
       <Toxt />
-      <div className="rote md:hidden bg-fixed xs:w-[400px]">
-        <Tot />
-        <Atach />
-      </div>
     </div>
   );
 }

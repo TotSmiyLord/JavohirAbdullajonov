@@ -3,10 +3,13 @@ import Link from "next/link";
 
 export default function Dashboards() {
   return (
-    <div>
-      <nav class=" font-sans flex sm:flex-row sm:text-left sm:justify-between py-4 px-6 bg-tr  sm:items-baseline w-full fixed  top-0 left-0 right-0 z-40">
+    <div class="lg:bg-tr ">
+      <nav class=" font-sans flex sm:flex-row sm:text-left sm:justify-between py-4 px-6     sm:items-baseline w-full sm:fixed  sm:top-0 sm:left-0 sm:right-0 sm:z-40">
         <div class="md:ml-40 ">
-          <a href="/" className=" no-underline text-white hover:text-blue-dark ">
+          <a
+            href="/"
+            className=" no-underline text-white hover:text-blue-dark "
+          >
             <svg
               width="30"
               height="30"
