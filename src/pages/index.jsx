@@ -5,9 +5,11 @@ import Toxt from "@/layauts/Toxt";
 import Tot from "@/layauts/Tot";
 import Atach from "@/layauts/attach/Atach";
 import Buttons from "@/layauts/attach/Buttons";
+import Footer from "@/layauts/attach/Footer";
+import Paski from "@/layauts/Paski";
 export default function Home() {
   return (
-    <div className="   container mx-auto ">
+    <div className="container mx-auto ">
       <Dashboards />
       <div class="sm:flex xl:w-full ">
         <div className="ml-6">
@@ -52,6 +54,7 @@ export default function Home() {
         <Atach />
       </div>
       <Toxt />
+      <Footer />
     </div>
   );
 }
