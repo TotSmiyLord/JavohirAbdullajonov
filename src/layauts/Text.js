@@ -10,7 +10,7 @@ export default function Text() {
               <div class="space-y-4">
                 <h2 class="mb-8 text-4x2 text-white  font-bold w-full">
                   Salom! Mening ismim &nbsp;
-                  <span className="text-[#7127BA]">Javohir Abdullajonov</span>
+                  <span className="text-[#7127BA] text-2xl">Javohir Abdullajonov</span>
                 </h2>
                 <h1 class="mb-12 text-3xl text-white  font-bold w-full ">
                   Kitobni muqovasiga qarab hukim

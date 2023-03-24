@@ -9,7 +9,7 @@ import Footer from "@/layauts/attach/Footer";
 import Paski from "@/layauts/Paski";
 export default function Home() {
   return (
-    <div>
+    <div className=" overflow-hidden">
       <Dashboards />
       <div className="container mx-auto ">
         <div class="sm:flex xl:w-full ">
