@@ -27,7 +27,7 @@ export default function Footer() {
           <div className="relative z-20">
             <div className="bg-[#2B0B3A] w-[582px] h-[341px]  pt-10  rounded-xl">
               <a href="https://on-time-seven.vercel.app/">
-                <div className="broo w-[540px] h-[300px] "></div>
+                <div className="broo w-[540px] h-[300px] rounded-xl"></div>
               </a>
             </div>
           </div>
@@ -67,7 +67,7 @@ export default function Footer() {
               <a href="https://on-time-seven.vercel.app/">
                 <div className="broo w-[270px] h-[180px] "></div>
               </a>
-            </div>  
+            </div>
           </div>
           <div className=" absolute mt-[200px]">
             <div className="vor w-[310px] h-[80px] rounded-xl "></div>

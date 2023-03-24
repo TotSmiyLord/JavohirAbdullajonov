@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Dashboards() {
   return (
-    <div class="lg:bg-tr ">
+    <div class="container mx-auto lg:bg-tr">
       <nav class=" font-sans flex sm:flex-row sm:text-left sm:justify-between py-4 px-6     sm:items-baseline w-full sm:fixed  sm:top-0 sm:left-0 sm:right-0 sm:z-40">
         <div class="md:ml-40 ">
           <a

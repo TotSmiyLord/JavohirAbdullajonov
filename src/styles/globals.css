@@ -43,3 +43,18 @@ header {
   background-repeat: no-repeat;  
   background-size: 50vh;
 }
+.bro{
+  background-image:url(./Instagrem.png) ;
+  background-repeat: no-repeat;
+}
+.bros{
+  background-image:url(./Subtract.png) ;
+  background-repeat: no-repeat;
+}
+.brod{
+  background-image:url(./Subtractdd.png) ;
+  background-repeat: no-repeat;
+}
+.boo{
+  background-color: #2B0B3A;
+}
