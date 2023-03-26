@@ -34,6 +34,12 @@ header {
     background-repeat: no-repeat;  
 
 }
+.broor{
+  background-image: url(2023-03-23_14-51-56.png);
+  background-size:50vh;
+    background-repeat: no-repeat;  
+
+}
 .teskari{
   background-image: url("./Cardko.png");
   background-repeat: no-repeat;  
@@ -54,4 +60,15 @@ header {
 .brod{
   background-image:url(./Subtractdd.png) ;
   background-repeat: no-repeat;
+}
+.brob{
+   background-image:url(./target.png) ;
+  background-repeat: no-repeat;
+    background-size: 70vh;
+
+}
+.broot{
+   background-image:url(./target.png) ;
+  background-repeat: no-repeat;
+  background-size: 70vh;
 }

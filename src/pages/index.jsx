@@ -10,8 +10,8 @@ import Paski from "@/layauts/Paski";
 export default function Home() {
   return (
     <div className=" overflow-hidden">
-      <Dashboards />
       <div className="container mx-auto ">
+        <Dashboards />
         <div class="sm:flex xl:w-full ">
           <div className="ml-6">
             <Fontent />
