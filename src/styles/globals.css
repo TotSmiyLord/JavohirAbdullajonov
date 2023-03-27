@@ -15,60 +15,57 @@ header {
 }
 .rotet {
   background-image: url("./Pppng.png");
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
   background-position: top;
 }
 .rote {
-   background-image: url("./Pppng.png");
-  background-repeat: no-repeat;  
-  background-size: 60vh ;
+  background-image: url("./Pppng.png");
+  background-repeat: no-repeat;
+  background-size: 60vh;
   background-position: top;
 }
-.bbb{
+.bbb {
   background-image: url("./Card.png");
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
 }
-.broo{
+.broo {
   background-image: url(2023-03-23_14-51-56.png);
-  background-size:70vh;
-    background-repeat: no-repeat;  
-
+  background-size: 70vh;
+  background-repeat: no-repeat;
 }
-.broor{
+.broor {
   background-image: url(2023-03-23_14-51-56.png);
-  background-size:50vh;
-    background-repeat: no-repeat;  
-
+  background-size: 50vh;
+  background-repeat: no-repeat;
 }
-.teskari{
+.teskari {
   background-image: url("./Cardko.png");
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
 }
-.vor{
-   background-image: url("./olttii.png");
-  background-repeat: no-repeat;  
+.vor {
+  background-image: url("./olttii.png");
+  background-repeat: no-repeat;
   background-size: 50vh;
 }
-.bro{
-  background-image:url(./Instagrem.png) ;
+.bro {
+  background-image: url(./Instagrem.png);
   background-repeat: no-repeat;
 }
-.bros{
-  background-image:url(./Subtract.png) ;
+.bros {
+  background-image: url(./Subtract.png);
   background-repeat: no-repeat;
 }
-.brod{
-  background-image:url(./Subtractdd.png) ;
+.brod {
+  background-image: url(./Subtractdd.png);
   background-repeat: no-repeat;
 }
-.brob{
-   background-image:url(./target.png) ;
+.brob {
+  background-image: url(./target.png);
   background-repeat: no-repeat;
-    background-size: 70vh;
-
+  background-size: 70vh;
 }
-.broot{
-   background-image:url(./target.png) ;
+.broot {
+  background-image: url(./target.png);
   background-repeat: no-repeat;
   background-size: 70vh;
 }
