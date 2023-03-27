@@ -1,6 +1,5 @@
-import React from 'react'
+import React from "react";
 import Dashboard from "@/layauts/Dashboard";
-
 
 export default function javascrip() {
   return (
@@ -153,8 +152,14 @@ export default function javascrip() {
               yuqori darajadagi mutaxassis bo'lishimiz mumkin.
             </p>
           </span>
-          <h1>Namunaviy loyiha</h1>
-          <a href="https://java-skript.vercel.app/"><button>Tashrif Buyurish</button></a>
+          <h1 class="mb-4 text-3xl text-[#7127BA]  font-bold w-full">
+            JavaScript yordamida yaratilgan Namunaviy loyihalar
+          </h1>
+          <a href="https://java-skript.vercel.app/">
+            <button className="rounded-xl  border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium mt-2 text-white transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
+              Tashrif Buyurish
+            </button>
+          </a>
           <iframe
             className="lg:w-[700px] lg:h-[500px] lg:ml-80"
             src="https://www.youtube.com/embed/Kh6PfBhuLT8"
@@ -168,4 +173,3 @@ export default function javascrip() {
     </div>
   );
 }
-
