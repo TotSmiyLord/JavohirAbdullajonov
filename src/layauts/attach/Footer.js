@@ -17,7 +17,9 @@ export default function Footer() {
               </p>
             </div>
             <a href="https://on-time-seven.vercel.app/" className="">
-              <button className="rounded-xl ml-20 border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium mt-2 text-white transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">Tashrif Buyurish</button>
+              <button className="rounded-xl ml-20 border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium mt-2 text-white transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
+                Tashrif Buyurish
+              </button>
             </a>
           </div>
 
@@ -54,8 +56,10 @@ export default function Footer() {
                 yurutuvchi klinika sayti
               </p>
             </div>
-            <a href="https://on-time-seven.vercel.app/" className="">
-              <button className="rounded-xl ml-40 border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium mt-2 text-white transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">Tashrif Buyurish</button>
+            <a href="https://javohir-med.vercel.app/" className="">
+              <button className="rounded-xl ml-40 border-2 border-[#693B93]  bg-gradient-to-br from-[#4F228D]   px-5 py-3 text-base mb-3 font-medium mt-2 text-white transition duration-200 hover:bg-[#5D3792] active:bg-red-700/5">
+                Tashrif Buyurish
+              </button>
             </a>
           </div>
         </div>

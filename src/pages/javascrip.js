@@ -153,6 +153,8 @@ export default function javascrip() {
               yuqori darajadagi mutaxassis bo'lishimiz mumkin.
             </p>
           </span>
+          <h1>Namunaviy loyiha</h1>
+          <a href="https://java-skript.vercel.app/"><button>Tashrif Buyurish</button></a>
           <iframe
             className="lg:w-[700px] lg:h-[500px] lg:ml-80"
             src="https://www.youtube.com/embed/Kh6PfBhuLT8"
