@@ -6,7 +6,7 @@ import Kosmos from "../../public/svg/kosmos/Kosmos";
 
 export default function Toxt() {
   return (
-    <div >
+    <div id="lob">
       <div class="relative py-16  from-sky-50 to-gray-200">
         <div class="relative container m-auto px-6 text-gray-500 md:px-12 xl:px-40">
           <div class="m-auto  md:w-12/12 lg:w-12/12 xl:w-12/12">

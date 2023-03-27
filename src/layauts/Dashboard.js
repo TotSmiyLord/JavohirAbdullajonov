@@ -28,12 +28,12 @@ export default function Dashboards() {
           </a>
         </div>
         <div className="">
-          <a
-            href="users"
+          <Link
+            href="#lob"
             class="text-lg no-underline text-white hover:text-blue-dark ml-2 "
           >
             Malumot
-          </a>
+          </Link>
           <a
             href="https://on-time-seven.vercel.app/"
             class="text-lg no-underline text-white hover:text-blue-dark ml-4 sm:ml-20"

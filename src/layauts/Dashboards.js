@@ -29,13 +29,13 @@ export default function Dashboards() {
         </div>
         <div className="">
           <a
-            href="users"
+            href="#lob"
             class="text-lg no-underline text-white hover:text-blue-dark ml-2 "
           >
             Malumot
           </a>
           <a
-            href="https://on-time-seven.vercel.app/"
+            href="#port"
             class="text-lg no-underline text-white hover:text-blue-dark ml-4 sm:ml-20"
           >
             Portfolio

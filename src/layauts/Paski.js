@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Paski() {
   return (
-    <div className="mt-[700px] sm:mt-[50px] boo ">
+    <div id="port" className="mt-[700px] sm:mt-[50px] boo ">
       <div className="container ">
         <h1 className="md:pl-40 text-white mt-10">Contact</h1>
         <p className="text-white mt-10 md:pl-40 pl-8">
